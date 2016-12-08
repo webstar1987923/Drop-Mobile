@@ -1,0 +1,12 @@
+
+
+colors:
+
+blue:
+#2196F3;
+
+yellow:
+#FDD835;
+
+grey:
+#EDEDED;
